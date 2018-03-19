@@ -1,5 +1,5 @@
 #!/bin/bash
-unset arr
+#unset arr
 arr=(`ls -l /root`)
 echo ${#arr[@]}
 for a in $arr
