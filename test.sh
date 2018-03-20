@@ -5,3 +5,4 @@ for a in $arr
 do
     /bin/cp  $a /318/mulu
 done
+#319 add a test line
