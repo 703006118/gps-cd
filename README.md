@@ -1,2 +1,0 @@
-# gps-cd
-gps-cd
